@@ -19,9 +19,6 @@ Run the following script on your server (Debian or Ubuntu):
 bash <(curl -Ls --ipv4 https://github.com/Musixal/easy-mesh/raw/main/easymesh.sh)
 ```
 
-## My Telegram channel
-Check the channel below for more information:
-https://t.me/Gozar_Xray
 
  ## Support the project
  <a href="https://nowpayments.io/donation?api_key=6Z16MRY-AF14Y8T-J24TXVS-00RDKK7&source=lk_donation&medium=referral" target="_blank">
